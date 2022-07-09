@@ -1,3 +1,32 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<style>
+    .skills {
+        display: flex;
+        gap: 0.49rem;
+    }
+    .skill {
+        padding: 0.75rem;
+        background-color: #333;
+    }
+    .skill__container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .skill__link {
+        color: #FFF;
+        text-decoration: none;
+    }
+    .skill__img {
+        font-size: 3.6em;
+    }
+    .skill__title {
+        font-size: 0.95em;
+        font-weight: bold;
+        text-align: center;
+        color: #FFF;
+    }
+</style>
 <h1 align="center">Hi 👋, I'm Gustavo Eduardo ORDOÑO POMA</h1>
 <h3 align="center">A passionate backend developer from Perú</h3>
 
@@ -17,4 +46,73 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h4>BackEnd:</h4>
+<section class="skills">
+    <article class="skill">
+        <div class="skill__container">
+            <a class="skill__link" href="https://expressjs.com" target="_blank" rel="noreferrer">
+                <i class="devicon-nodejs-plain skill__img"></i>
+            </a>
+        </div>
+        <h4 class="skill__title">NodeJS</h4>
+    </article>
+    <article class="skill">
+        <div class="skill__container">
+            <a class="skill__link" href="https://expressjs.com" target="_blank" rel="noreferrer">
+                <i class="devicon-express-original skill__img"></i>
+            </a>
+        </div>
+        <h5 class="skill__title">Express</h5>
+    </article>
+    <article class="skill">
+        <div class="skill__container">
+            <a class="skill__link" href="https://expressjs.com" target="_blank" rel="noreferrer">
+                <i class="devicon-mysql-plain skill__img"></i>
+            </a>
+        </div>
+        <h5 class="skill__title">MySQL</h5>
+    </article>
+    <article class="skill">
+        <div class="skill__container">
+            <a class="skill__link" href="https://expressjs.com" target="_blank" rel="noreferrer">
+                <i class="devicon-mongodb-plain skill__img"></i>
+            </a>
+        </div>
+        <h5 class="skill__title">MongoDB</h5>
+    </article>
+</section>
+<h4>FrontEnd:</h4>
+<section class="skills">
+    <article class="skill">
+        <div class="skill__container">
+            <a class="skill__link" href="https://expressjs.com" target="_blank" rel="noreferrer">
+                <img src="./icons/ejs.svg" style="width:3.6rem;height:3.6rem;">
+            </a>
+        </div>
+        <h5 class="skill__title">EJS</h5>
+    </article>
+    <article class="skill">
+        <div class="skill__container">
+            <a class="skill__link" href="https://expressjs.com" target="_blank" rel="noreferrer">
+                <img src="./icons/pug.svg" style="width:3.6rem;height:3.6rem;">
+            </a>
+        </div>
+        <h5 class="skill__title">Pug</h5>
+    </article>
+    <article class="skill">
+        <div class="skill__container">
+            <a class="skill__link" href="https://expressjs.com" target="_blank" rel="noreferrer">
+                <i class="devicon-handlebars-plain skill__img"></i>
+            </a>
+        </div>
+        <h5 class="skill__title">Handlebars</h5>
+    </article>
+    <article class="skill">
+        <div class="skill__container">
+            <a class="skill__link" href="https://expressjs.com" target="_blank" rel="noreferrer">
+                <i class="devicon-tailwindcss-plain skill__img"></i>
+            </a>
+        </div>
+        <h5 class="skill__title">TailwindCSS</h5>
+    </article>
+</section>

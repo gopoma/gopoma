@@ -1,32 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<style>
-    .skills {
-        display: flex;
-        gap: 0.49rem;
-    }
-    .skill {
-        padding: 0.75rem;
-        background-color: #333;
-    }
-    .skill__container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    .skill__link {
-        color: #FFF;
-        text-decoration: none;
-    }
-    .skill__img {
-        font-size: 3.6em;
-    }
-    .skill__title {
-        font-size: 0.95em;
-        font-weight: bold;
-        text-align: center;
-        color: #FFF;
-    }
-</style>
+<link rel="stylesheet" href="./css/styles.css">
 <h1 align="center">Hi 👋, I'm Gustavo Eduardo ORDOÑO POMA</h1>
 <h3 align="center">A passionate backend developer from Perú</h3>
 

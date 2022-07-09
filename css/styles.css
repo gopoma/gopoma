@@ -1,0 +1,26 @@
+.skills {
+    display: flex;
+    gap: 0.49rem;
+}
+.skill {
+    padding: 0.75rem;
+    background-color: #333;
+}
+.skill__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.skill__link {
+    color: #FFF;
+    text-decoration: none;
+}
+.skill__img {
+    font-size: 3.6em;
+}
+.skill__title {
+    font-size: 0.95em;
+    font-weight: bold;
+    text-align: center;
+    color: #FFF;
+}

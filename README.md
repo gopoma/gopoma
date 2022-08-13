@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Chat Aplication](https://github.com/gopoma/chat-app-api)
 
-- 🌱 I’m currently learning **Django and Angular**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://gopoma.vercel.app/](https://gopoma.vercel.app/)
 

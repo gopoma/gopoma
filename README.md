@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/gopoma79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gopoma79" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gopoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopoma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@gustavoeduardoordonopoma7432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gustavoeduardoordonopoma7432" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/gustavo eduardo ordoño poma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gustavo eduardo ordoño poma" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gustavo13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gustavo13" height="30" width="40" /></a>
 </p>
 
